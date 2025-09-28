@@ -1,0 +1,11 @@
+    PID    PPID CMD                         %MEM %CPU
+  40925   40468 /snap/firefox/2356/usr/lib/  9.3 34.2
+  40468    1778 /snap/firefox/2356/usr/lib/  9.7 31.1
+   1778    1611 /usr/bin/gnome-shell         8.8  2.7
+  40611   40468 /snap/firefox/2356/usr/lib/  2.8  2.7
+  40921   40468 /snap/firefox/2356/usr/lib/  2.0  1.7
+  40767   40468 /snap/firefox/2356/usr/lib/  2.2  0.6
+  40383    1611 /usr/bin/gnome-calendar --g  1.5  0.5
+  40387    1611 /usr/bin/seahorse --gapplic  1.0  0.4
+      1       0 /lib/systemd/systemd --syst  0.3  0.3
+  41083   40468 /snap/firefox/2356/usr/lib/  1.1  0.3
